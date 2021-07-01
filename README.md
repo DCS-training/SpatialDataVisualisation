@@ -1,11 +1,11 @@
-# SpatialDataVisualisation
+# Spatial Data Visualisation with QGIS
 
 The material in this repository was presented on a two session workshop 26/03/21-29/03/21
 The material cover the basics of producing good spatial data visualisation. 
 Attendees will be guided step by step on how to produce effective map visualisations with QGIS. 
 In this repo you will find
 - the Workbooks of the two sessions (`Advanced Spatial Data Visualisation - Session 1.pdf`and `Advanced Spatial Data Visualisation - Session 2.pdf`)
-- The Dataset folder containing the data for the two sessions (`SDV_QGIS_1.zip` and `SDV_QGIS_2.zip`). In order to use the dataset you will need to download and unzip the files to an easy to access location on your machine.
+- The **Dataset** folder containing the data for the two sessions (`SDV_QGIS_1.zip` and `SDV_QGIS_2.zip`). In order to use the dataset you will need to download and unzip the files to an easy to access location on your machine.
 
 ## Topics and Content
 
